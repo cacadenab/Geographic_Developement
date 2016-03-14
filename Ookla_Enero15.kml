@@ -1,0 +1,4710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+    <Style id="Claro">
+      <LineStyle>
+        <width>0.25</width>
+		<color>cd0000ff</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>cd0000ff</color>
+      </PolyStyle>
+    </Style>
+	 <Style id="Movistar">
+      <LineStyle>
+        <width>0.25</width>
+		<color>cd00ff00</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>cd00ff00</color>
+      </PolyStyle>
+    </Style>
+	<Style id="TIGO">
+      <LineStyle>
+        <width>0.25</width>
+		<color>cdff0000</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>cdff0000</color>
+      </PolyStyle>
+    </Style>
+
+	
+	
+<Folder>
+<name>2G</name>
+<visibility>0</visibility>
+
+<Placemark>
+<name>Santa Fe De Bogota,D.C.</name>
+<description>TIGO - 134.92 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-74.2244,4.6072,6746
+-74.2244,4.7072,6746
+-74.1244,4.7072,6746
+-74.1244,4.6072,6746
+-74.2244,4.6072,6746
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Cundinamarca</name>
+<description>Movistar - 70.35 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-74.2528,4.6842,3517.5
+-74.2528,4.7842,3517.5
+-74.1528,4.7842,3517.5
+-74.1528,4.6842,3517.5
+-74.2528,4.6842,3517.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Antioquia</name>
+<description>Claro - 88.92 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.5298,6.2158,4446
+-75.5298,6.3158,4446
+-75.4298,6.3158,4446
+-75.4298,6.2158,4446
+-75.5298,6.2158,4446
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Santander</name>
+<description>TIGO - 151.45 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-73.3844,6.9599,7572.5
+-73.3844,7.0599,7572.5
+-73.2844,7.0599,7572.5
+-73.2844,6.9599,7572.5
+-73.3844,6.9599,7572.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Cesar</name>
+<description>Claro - 130 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-73.3274,9.9154,6500
+-73.3274,10.0154,6500
+-73.2274,10.0154,6500
+-73.2274,9.9154,6500
+-73.3274,9.9154,6500
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Atlantico</name>
+<description>Claro - 83.33 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-74.7648,10.9175,4166.5
+-74.7648,11.0175,4166.5
+-74.6648,11.0175,4166.5
+-74.6648,10.9175,4166.5
+-74.7648,10.9175,4166.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Nari?o</name>
+<description>TIGO - 98.75 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-77.6365,1.1705,4937.5
+-77.6365,1.2705,4937.5
+-77.5365,1.2705,4937.5
+-77.5365,1.1705,4937.5
+-77.6365,1.1705,4937.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Tolima</name>
+<description>TIGO - 129 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.2984,4.388,6450
+-75.2984,4.488,6450
+-75.1984,4.488,6450
+-75.1984,4.388,6450
+-75.2984,4.388,6450
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Quindio</name>
+<description>Claro - 90.8 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.6399,4.491,4540
+-75.6399,4.591,4540
+-75.5399,4.591,4540
+-75.5399,4.491,4540
+-75.6399,4.491,4540
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Quindio</name>
+<description>Movistar - 77 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.7399,4.491,3850
+-75.7399,4.591,3850
+-75.6399,4.591,3850
+-75.6399,4.491,3850
+-75.7399,4.491,3850
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Antioquia</name>
+<description>Movistar - 66.14 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.6298,6.2158,3307
+-75.6298,6.3158,3307
+-75.5298,6.3158,3307
+-75.5298,6.2158,3307
+-75.6298,6.2158,3307
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Cordoba</name>
+<description>TIGO - 76 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.9242,8.6231,3800
+-75.9242,8.7231,3800
+-75.8242,8.7231,3800
+-75.8242,8.6231,3800
+-75.9242,8.6231,3800
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>La Guajira</name>
+<description>TIGO - 100.8 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-72.9427,11.2387,5040
+-72.9427,11.3387,5040
+-72.8427,11.3387,5040
+-72.8427,11.2387,5040
+-72.9427,11.2387,5040
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Cesar</name>
+<description>TIGO - 148.13 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-73.5274,9.9154,7406.5
+-73.5274,10.0154,7406.5
+-73.4274,10.0154,7406.5
+-73.4274,9.9154,7406.5
+-73.5274,9.9154,7406.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Boyaca</name>
+<description>Movistar - 80.33 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-73.3261,5.633,4016.5
+-73.3261,5.733,4016.5
+-73.2261,5.733,4016.5
+-73.2261,5.633,4016.5
+-73.3261,5.633,4016.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Bolivar</name>
+<description>Claro - 66.8 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.2461,10.0598,3340
+-75.2461,10.1598,3340
+-75.1461,10.1598,3340
+-75.1461,10.0598,3340
+-75.2461,10.0598,3340
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Valle Del Cauca</name>
+<description>Claro - 101.05 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-76.4082,3.5144,5052.5
+-76.4082,3.6144,5052.5
+-76.3082,3.6144,5052.5
+-76.3082,3.5144,5052.5
+-76.4082,3.5144,5052.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Atlantico</name>
+<description>TIGO - 133.92 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-74.9648,10.9175,6696
+-74.9648,11.0175,6696
+-74.8648,11.0175,6696
+-74.8648,10.9175,6696
+-74.9648,10.9175,6696
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Boyaca</name>
+<description>TIGO - 115 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-73.4261,5.633,5750
+-73.4261,5.733,5750
+-73.3261,5.733,5750
+-73.3261,5.633,5750
+-73.4261,5.633,5750
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Norte De Santander</name>
+<description>Claro - 61.5 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-72.5229,7.8322,3075
+-72.5229,7.9322,3075
+-72.4229,7.9322,3075
+-72.4229,7.8322,3075
+-72.5229,7.8322,3075
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Tolima</name>
+<description>Movistar - 108.83 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.1984,4.388,5441.5
+-75.1984,4.488,5441.5
+-75.0984,4.488,5441.5
+-75.0984,4.388,5441.5
+-75.1984,4.388,5441.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Casanare</name>
+<description>Claro - 46.33 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-72.407,5.1864,2316.5
+-72.407,5.2864,2316.5
+-72.307,5.2864,2316.5
+-72.307,5.1864,2316.5
+-72.407,5.1864,2316.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Norte De Santander</name>
+<description>TIGO - 130 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-72.7229,7.8322,6500
+-72.7229,7.9322,6500
+-72.6229,7.9322,6500
+-72.6229,7.8322,6500
+-72.7229,7.8322,6500
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>La Guajira</name>
+<description>Movistar - 120.5 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-72.8427,11.2387,6025
+-72.8427,11.3387,6025
+-72.7427,11.3387,6025
+-72.7427,11.2387,6025
+-72.8427,11.2387,6025
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Sucre</name>
+<description>Movistar - 40 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.4075,9.2497,2000
+-75.4075,9.3497,2000
+-75.3075,9.3497,2000
+-75.3075,9.2497,2000
+-75.4075,9.2497,2000
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Nari?o</name>
+<description>Claro - 55 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-77.4365,1.1705,2750
+-77.4365,1.2705,2750
+-77.3365,1.2705,2750
+-77.3365,1.1705,2750
+-77.4365,1.1705,2750
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Arauca</name>
+<description>Movistar - 68.5 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-71.1274,6.9083,3425
+-71.1274,7.0083,3425
+-71.0274,7.0083,3425
+-71.0274,6.9083,3425
+-71.1274,6.9083,3425
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Valle Del Cauca</name>
+<description>Movistar - 93.1 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-76.5082,3.5144,4655
+-76.5082,3.6144,4655
+-76.4082,3.6144,4655
+-76.4082,3.5144,4655
+-76.5082,3.5144,4655
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Cordoba</name>
+<description>Claro - 65.31 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.7242,8.6231,3265.5
+-75.7242,8.7231,3265.5
+-75.6242,8.7231,3265.5
+-75.6242,8.6231,3265.5
+-75.7242,8.6231,3265.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Cesar</name>
+<description>Movistar - 60.35 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-73.4274,9.9154,3017.5
+-73.4274,10.0154,3017.5
+-73.3274,10.0154,3017.5
+-73.3274,9.9154,3017.5
+-73.4274,9.9154,3017.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Sucre</name>
+<description>TIGO - 110 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.5075,9.2497,5500
+-75.5075,9.3497,5500
+-75.4075,9.3497,5500
+-75.4075,9.2497,5500
+-75.5075,9.2497,5500
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Putumayo</name>
+<description>Claro - 24.67 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-76.6125,0.8998,1233.5
+-76.6125,0.9998,1233.5
+-76.5125,0.9998,1233.5
+-76.5125,0.8998,1233.5
+-76.6125,0.8998,1233.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Huila</name>
+<description>TIGO - 112 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.6442,2.576,5600
+-75.6442,2.676,5600
+-75.5442,2.676,5600
+-75.5442,2.576,5600
+-75.6442,2.576,5600
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Santander</name>
+<description>Movistar - 66.6 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-73.2844,6.9599,3330
+-73.2844,7.0599,3330
+-73.1844,7.0599,3330
+-73.1844,6.9599,3330
+-73.2844,6.9599,3330
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Boyaca</name>
+<description>Claro - 53.2 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-73.2261,5.633,2660
+-73.2261,5.733,2660
+-73.1261,5.733,2660
+-73.1261,5.633,2660
+-73.2261,5.633,2660
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Santander</name>
+<description>Claro - 93.8 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-73.1844,6.9599,4690
+-73.1844,7.0599,4690
+-73.0844,7.0599,4690
+-73.0844,6.9599,4690
+-73.1844,6.9599,4690
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Nari?o</name>
+<description>Movistar - 122.55 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-77.5365,1.1705,6127.5
+-77.5365,1.2705,6127.5
+-77.4365,1.2705,6127.5
+-77.4365,1.1705,6127.5
+-77.5365,1.1705,6127.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Atlantico</name>
+<description>Movistar - 131.91 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-74.8648,10.9175,6595.5
+-74.8648,11.0175,6595.5
+-74.7648,11.0175,6595.5
+-74.7648,10.9175,6595.5
+-74.8648,10.9175,6595.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Huila</name>
+<description>Movistar - 145.13 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.5442,2.576,7256.5
+-75.5442,2.676,7256.5
+-75.4442,2.676,7256.5
+-75.4442,2.576,7256.5
+-75.5442,2.576,7256.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Meta</name>
+<description>Movistar - 54 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-73.4531,3.9933,2700
+-73.4531,4.0933,2700
+-73.3531,4.0933,2700
+-73.3531,3.9933,2700
+-73.4531,3.9933,2700
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Caldas</name>
+<description>Claro - 160.67 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.4276,5.0519,8033.5
+-75.4276,5.1519,8033.5
+-75.3276,5.1519,8033.5
+-75.3276,5.0519,8033.5
+-75.4276,5.0519,8033.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Cauca</name>
+<description>Movistar - 93.44 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-76.6711,2.505,4672
+-76.6711,2.605,4672
+-76.5711,2.605,4672
+-76.5711,2.505,4672
+-76.6711,2.505,4672
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Risaralda</name>
+<description>Claro - 72.33 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.6573,4.7784,3616.5
+-75.6573,4.8784,3616.5
+-75.5573,4.8784,3616.5
+-75.5573,4.7784,3616.5
+-75.6573,4.7784,3616.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Cauca</name>
+<description>Claro - 74.4 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-76.5711,2.505,3720
+-76.5711,2.605,3720
+-76.4711,2.605,3720
+-76.4711,2.505,3720
+-76.5711,2.505,3720
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Guaviare</name>
+<description>Movistar - 61.5 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-72.69,2.5051,3075
+-72.69,2.6051,3075
+-72.59,2.6051,3075
+-72.59,2.5051,3075
+-72.69,2.5051,3075
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Magdalena</name>
+<description>Claro - 154.5 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-74.1854,10.8938,7725
+-74.1854,10.9938,7725
+-74.0854,10.9938,7725
+-74.0854,10.8938,7725
+-74.1854,10.8938,7725
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Caldas</name>
+<description>Movistar - 167.5 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.5276,5.0519,8375
+-75.5276,5.1519,8375
+-75.4276,5.1519,8375
+-75.4276,5.0519,8375
+-75.5276,5.0519,8375
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Caqueta</name>
+<description>Movistar - 52.75 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.5443,1.5442,2637.5
+-75.5443,1.6442,2637.5
+-75.4443,1.6442,2637.5
+-75.4443,1.5442,2637.5
+-75.5443,1.5442,2637.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Magdalena</name>
+<description>Movistar - 103.17 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-74.2854,10.8938,5158.5
+-74.2854,10.9938,5158.5
+-74.1854,10.9938,5158.5
+-74.1854,10.8938,5158.5
+-74.2854,10.8938,5158.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Tolima</name>
+<description>Claro - 25.4 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.0984,4.388,1270
+-75.0984,4.488,1270
+-74.9984,4.488,1270
+-74.9984,4.388,1270
+-75.0984,4.388,1270
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Risaralda</name>
+<description>Movistar - 84 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.7573,4.7784,4200
+-75.7573,4.8784,4200
+-75.6573,4.8784,4200
+-75.6573,4.7784,4200
+-75.7573,4.7784,4200
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Norte De Santander</name>
+<description>Movistar - 135 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-72.6229,7.8322,6750
+-72.6229,7.9322,6750
+-72.5229,7.9322,6750
+-72.5229,7.8322,6750
+-72.6229,7.8322,6750
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Santa Fe De Bogota,D.C.</name>
+<description>Claro - 63.14 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-74.0244,4.6072,3157
+-74.0244,4.7072,3157
+-73.9244,4.7072,3157
+-73.9244,4.6072,3157
+-74.0244,4.6072,3157
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Cundinamarca</name>
+<description>Claro - 86.58 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-74.1528,4.6842,4329
+-74.1528,4.7842,4329
+-74.0528,4.7842,4329
+-74.0528,4.6842,4329
+-74.1528,4.6842,4329
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Antioquia</name>
+<description>TIGO - 125.89 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.7298,6.2158,6294.5
+-75.7298,6.3158,6294.5
+-75.6298,6.3158,6294.5
+-75.6298,6.2158,6294.5
+-75.7298,6.2158,6294.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Bolivar</name>
+<description>TIGO - 123.7 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.4461,10.0598,6185
+-75.4461,10.1598,6185
+-75.3461,10.1598,6185
+-75.3461,10.0598,6185
+-75.4461,10.0598,6185
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Choco</name>
+<description>Claro - 69 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-76.5941,5.5731,3450
+-76.5941,5.6731,3450
+-76.4941,5.6731,3450
+-76.4941,5.5731,3450
+-76.5941,5.5731,3450
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Magdalena</name>
+<description>TIGO - 136.17 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-74.3854,10.8938,6808.5
+-74.3854,10.9938,6808.5
+-74.2854,10.9938,6808.5
+-74.2854,10.8938,6808.5
+-74.3854,10.8938,6808.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Huila</name>
+<description>Claro - 30.2 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.4442,2.576,1510
+-75.4442,2.676,1510
+-75.3442,2.676,1510
+-75.3442,2.576,1510
+-75.4442,2.576,1510
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Sucre</name>
+<description>Claro - 30.67 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.3075,9.2497,1533.5
+-75.3075,9.3497,1533.5
+-75.2075,9.3497,1533.5
+-75.2075,9.2497,1533.5
+-75.3075,9.2497,1533.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Caqueta</name>
+<description>Claro - 22 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.4443,1.5442,1100
+-75.4443,1.6442,1100
+-75.3443,1.6442,1100
+-75.3443,1.5442,1100
+-75.4443,1.5442,1100
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Santa Fe De Bogota,D.C.</name>
+<description>Movistar - 108.84 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-74.1244,4.6072,5442
+-74.1244,4.7072,5442
+-74.0244,4.7072,5442
+-74.0244,4.6072,5442
+-74.1244,4.6072,5442
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Cundinamarca</name>
+<description>TIGO - 140.2 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-74.3528,4.6842,7010
+-74.3528,4.7842,7010
+-74.2528,4.7842,7010
+-74.2528,4.6842,7010
+-74.3528,4.6842,7010
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Valle Del Cauca</name>
+<description>TIGO - 189.32 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-76.6082,3.5144,9466
+-76.6082,3.6144,9466
+-76.5082,3.6144,9466
+-76.5082,3.5144,9466
+-76.6082,3.5144,9466
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Cauca</name>
+<description>TIGO - 85.33 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-76.7711,2.505,4266.5
+-76.7711,2.605,4266.5
+-76.6711,2.605,4266.5
+-76.6711,2.505,4266.5
+-76.7711,2.505,4266.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Meta</name>
+<description>Claro - 61.11 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-73.3531,3.9933,3055.5
+-73.3531,4.0933,3055.5
+-73.2531,4.0933,3055.5
+-73.2531,3.9933,3055.5
+-73.3531,3.9933,3055.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Caldas</name>
+<description>TIGO - 169 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.6276,5.0519,8450
+-75.6276,5.1519,8450
+-75.5276,5.1519,8450
+-75.5276,5.0519,8450
+-75.6276,5.0519,8450
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Cordoba</name>
+<description>Movistar - 242.25 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.8242,8.6231,12112.5
+-75.8242,8.7231,12112.5
+-75.7242,8.7231,12112.5
+-75.7242,8.6231,12112.5
+-75.8242,8.6231,12112.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+
+
+
+</Folder>
+
+	
+
+<Folder>
+<name>3G</name>
+<visibility>0</visibility>	
+
+<Placemark>
+<name>Cundinamarca</name>
+<description>Movistar - 2172.4 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-74.2528,4.6842,108620
+-74.2528,4.7842,108620
+-74.1528,4.7842,108620
+-74.1528,4.6842,108620
+-74.2528,4.6842,108620
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Cundinamarca</name>
+<description>Claro - 1779.16 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-74.1528,4.6842,88958
+-74.1528,4.7842,88958
+-74.0528,4.7842,88958
+-74.0528,4.6842,88958
+-74.1528,4.6842,88958
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Santander</name>
+<description>Claro - 1841.39 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-73.1844,6.9599,92069.5
+-73.1844,7.0599,92069.5
+-73.0844,7.0599,92069.5
+-73.0844,6.9599,92069.5
+-73.1844,6.9599,92069.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Caldas</name>
+<description>TIGO - 4628.76 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.6276,5.0519,231438
+-75.6276,5.1519,231438
+-75.5276,5.1519,231438
+-75.5276,5.0519,231438
+-75.6276,5.0519,231438
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Cauca</name>
+<description>Movistar - 3917.83 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-76.6711,2.505,195891.5
+-76.6711,2.605,195891.5
+-76.5711,2.605,195891.5
+-76.5711,2.505,195891.5
+-76.6711,2.505,195891.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Norte De Santander</name>
+<description>Claro - 2101.92 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-72.5229,7.8322,105096
+-72.5229,7.9322,105096
+-72.4229,7.9322,105096
+-72.4229,7.8322,105096
+-72.5229,7.8322,105096
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Cesar</name>
+<description>Claro - 2015.41 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-73.3274,9.9154,100770.5
+-73.3274,10.0154,100770.5
+-73.2274,10.0154,100770.5
+-73.2274,9.9154,100770.5
+-73.3274,9.9154,100770.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Norte De Santander</name>
+<description>TIGO - 2906.16 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-72.7229,7.8322,145308
+-72.7229,7.9322,145308
+-72.6229,7.9322,145308
+-72.6229,7.8322,145308
+-72.7229,7.8322,145308
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Meta</name>
+<description>Claro - 1876.89 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-73.3531,3.9933,93844.5
+-73.3531,4.0933,93844.5
+-73.2531,4.0933,93844.5
+-73.2531,3.9933,93844.5
+-73.3531,3.9933,93844.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>La Guajira</name>
+<description>TIGO - 2721.98 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-72.9427,11.2387,136099
+-72.9427,11.3387,136099
+-72.8427,11.3387,136099
+-72.8427,11.2387,136099
+-72.9427,11.2387,136099
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Cundinamarca</name>
+<description>TIGO - 3070.58 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-74.3528,4.6842,153529
+-74.3528,4.7842,153529
+-74.2528,4.7842,153529
+-74.2528,4.6842,153529
+-74.3528,4.6842,153529
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Boyaca</name>
+<description>Movistar - 2262.58 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-73.3261,5.633,113129
+-73.3261,5.733,113129
+-73.2261,5.733,113129
+-73.2261,5.633,113129
+-73.3261,5.633,113129
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Antioquia</name>
+<description>Movistar - 2519.96 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.6298,6.2158,125998
+-75.6298,6.3158,125998
+-75.5298,6.3158,125998
+-75.5298,6.2158,125998
+-75.6298,6.2158,125998
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Boyaca</name>
+<description>Claro - 1719.71 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-73.2261,5.633,85985.5
+-73.2261,5.733,85985.5
+-73.1261,5.733,85985.5
+-73.1261,5.633,85985.5
+-73.2261,5.633,85985.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Quindio</name>
+<description>TIGO - 4749.97 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.8399,4.491,237498.5
+-75.8399,4.591,237498.5
+-75.7399,4.591,237498.5
+-75.7399,4.491,237498.5
+-75.8399,4.491,237498.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Sucre</name>
+<description>TIGO - 3200.75 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.5075,9.2497,160037.5
+-75.5075,9.3497,160037.5
+-75.4075,9.3497,160037.5
+-75.4075,9.2497,160037.5
+-75.5075,9.2497,160037.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Risaralda</name>
+<description>Claro - 2334.81 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.6573,4.7784,116740.5
+-75.6573,4.8784,116740.5
+-75.5573,4.8784,116740.5
+-75.5573,4.7784,116740.5
+-75.6573,4.7784,116740.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Quindio</name>
+<description>Movistar - 3881.74 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.7399,4.491,194087
+-75.7399,4.591,194087
+-75.6399,4.591,194087
+-75.6399,4.491,194087
+-75.7399,4.491,194087
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Putumayo</name>
+<description>Movistar - 3764.21 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-76.7125,0.8998,188210.5
+-76.7125,0.9998,188210.5
+-76.6125,0.9998,188210.5
+-76.6125,0.8998,188210.5
+-76.7125,0.8998,188210.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Arauca</name>
+<description>Claro - 1167.29 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-71.0274,6.9083,58364.5
+-71.0274,7.0083,58364.5
+-70.9274,7.0083,58364.5
+-70.9274,6.9083,58364.5
+-71.0274,6.9083,58364.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Cauca</name>
+<description>TIGO - 3101.36 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-76.7711,2.505,155068
+-76.7711,2.605,155068
+-76.6711,2.605,155068
+-76.6711,2.505,155068
+-76.7711,2.505,155068
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Nari?o</name>
+<description>Movistar - 2879.69 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-77.5365,1.1705,143984.5
+-77.5365,1.2705,143984.5
+-77.4365,1.2705,143984.5
+-77.4365,1.1705,143984.5
+-77.5365,1.1705,143984.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Meta</name>
+<description>TIGO - 3495.36 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-73.5531,3.9933,174768
+-73.5531,4.0933,174768
+-73.4531,4.0933,174768
+-73.4531,3.9933,174768
+-73.5531,3.9933,174768
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Caqueta</name>
+<description>Claro - 2216.48 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.4443,1.5442,110824
+-75.4443,1.6442,110824
+-75.3443,1.6442,110824
+-75.3443,1.5442,110824
+-75.4443,1.5442,110824
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Casanare</name>
+<description>TIGO - 2035.72 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-72.607,5.1864,101786
+-72.607,5.2864,101786
+-72.507,5.2864,101786
+-72.507,5.1864,101786
+-72.607,5.1864,101786
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Caqueta</name>
+<description>Movistar - 3761.1 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.5443,1.5442,188055
+-75.5443,1.6442,188055
+-75.4443,1.6442,188055
+-75.4443,1.5442,188055
+-75.5443,1.5442,188055
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Guaviare</name>
+<description>Movistar - 1504.19 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-72.69,2.5051,75209.5
+-72.69,2.6051,75209.5
+-72.59,2.6051,75209.5
+-72.59,2.5051,75209.5
+-72.69,2.5051,75209.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Guaviare</name>
+<description>Claro - 487.5 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-72.59,2.5051,24375
+-72.59,2.6051,24375
+-72.49,2.6051,24375
+-72.49,2.5051,24375
+-72.59,2.5051,24375
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Valle Del Cauca</name>
+<description>Claro - 1956.44 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-76.4082,3.5144,97822
+-76.4082,3.6144,97822
+-76.3082,3.6144,97822
+-76.3082,3.5144,97822
+-76.4082,3.5144,97822
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Santa Fe De Bogota,D.C.</name>
+<description>Claro - 2231.39 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-74.0244,4.6072,111569.5
+-74.0244,4.7072,111569.5
+-73.9244,4.7072,111569.5
+-73.9244,4.6072,111569.5
+-74.0244,4.6072,111569.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Santa Fe De Bogota,D.C.</name>
+<description>Movistar - 2500.63 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-74.1244,4.6072,125031.5
+-74.1244,4.7072,125031.5
+-74.0244,4.7072,125031.5
+-74.0244,4.6072,125031.5
+-74.1244,4.6072,125031.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Atlantico</name>
+<description>TIGO - 3929.92 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-74.9648,10.9175,196496
+-74.9648,11.0175,196496
+-74.8648,11.0175,196496
+-74.8648,10.9175,196496
+-74.9648,10.9175,196496
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Atlantico</name>
+<description>Claro - 2318.51 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-74.7648,10.9175,115925.5
+-74.7648,11.0175,115925.5
+-74.6648,11.0175,115925.5
+-74.6648,10.9175,115925.5
+-74.7648,10.9175,115925.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Magdalena</name>
+<description>TIGO - 2631.11 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-74.3854,10.8938,131555.5
+-74.3854,10.9938,131555.5
+-74.2854,10.9938,131555.5
+-74.2854,10.8938,131555.5
+-74.3854,10.8938,131555.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Quindio</name>
+<description>Claro - 1449.46 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.6399,4.491,72473
+-75.6399,4.591,72473
+-75.5399,4.591,72473
+-75.5399,4.491,72473
+-75.6399,4.491,72473
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Cesar</name>
+<description>Movistar - 2849.17 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-73.4274,9.9154,142458.5
+-73.4274,10.0154,142458.5
+-73.3274,10.0154,142458.5
+-73.3274,9.9154,142458.5
+-73.4274,9.9154,142458.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Choco</name>
+<description>TIGO - 3979 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-76.7941,5.5731,198950
+-76.7941,5.6731,198950
+-76.6941,5.6731,198950
+-76.6941,5.5731,198950
+-76.7941,5.5731,198950
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Choco</name>
+<description>Claro - 1300.04 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-76.5941,5.5731,65002
+-76.5941,5.6731,65002
+-76.4941,5.6731,65002
+-76.4941,5.5731,65002
+-76.5941,5.5731,65002
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Cauca</name>
+<description>Claro - 1624.83 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-76.5711,2.505,81241.5
+-76.5711,2.605,81241.5
+-76.4711,2.605,81241.5
+-76.4711,2.505,81241.5
+-76.5711,2.505,81241.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Risaralda</name>
+<description>Movistar - 4389.34 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.7573,4.7784,219467
+-75.7573,4.8784,219467
+-75.6573,4.8784,219467
+-75.6573,4.7784,219467
+-75.7573,4.7784,219467
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Tolima</name>
+<description>Claro - 1571.28 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.0984,4.388,78564
+-75.0984,4.488,78564
+-74.9984,4.488,78564
+-74.9984,4.388,78564
+-75.0984,4.388,78564
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Huila</name>
+<description>Claro - 2623.45 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.4442,2.576,131172.5
+-75.4442,2.676,131172.5
+-75.3442,2.676,131172.5
+-75.3442,2.576,131172.5
+-75.4442,2.576,131172.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Choco</name>
+<description>Movistar - 564.59 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-76.6941,5.5731,28229.5
+-76.6941,5.6731,28229.5
+-76.5941,5.6731,28229.5
+-76.5941,5.5731,28229.5
+-76.6941,5.5731,28229.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Sucre</name>
+<description>Movistar - 2619.33 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.4075,9.2497,130966.5
+-75.4075,9.3497,130966.5
+-75.3075,9.3497,130966.5
+-75.3075,9.2497,130966.5
+-75.4075,9.2497,130966.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Valle Del Cauca</name>
+<description>Movistar - 2846.33 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-76.5082,3.5144,142316.5
+-76.5082,3.6144,142316.5
+-76.4082,3.6144,142316.5
+-76.4082,3.5144,142316.5
+-76.5082,3.5144,142316.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Tolima</name>
+<description>Movistar - 1880.43 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.1984,4.388,94021.5
+-75.1984,4.488,94021.5
+-75.0984,4.488,94021.5
+-75.0984,4.388,94021.5
+-75.1984,4.388,94021.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Santander</name>
+<description>TIGO - 3626.44 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-73.3844,6.9599,181322
+-73.3844,7.0599,181322
+-73.2844,7.0599,181322
+-73.2844,6.9599,181322
+-73.3844,6.9599,181322
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Cordoba</name>
+<description>TIGO - 3010.76 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.9242,8.6231,150538
+-75.9242,8.7231,150538
+-75.8242,8.7231,150538
+-75.8242,8.6231,150538
+-75.9242,8.6231,150538
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Caldas</name>
+<description>Movistar - 3083.93 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.5276,5.0519,154196.5
+-75.5276,5.1519,154196.5
+-75.4276,5.1519,154196.5
+-75.4276,5.0519,154196.5
+-75.5276,5.0519,154196.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Magdalena</name>
+<description>Claro - 2473.57 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-74.1854,10.8938,123678.5
+-74.1854,10.9938,123678.5
+-74.0854,10.9938,123678.5
+-74.0854,10.8938,123678.5
+-74.1854,10.8938,123678.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Caldas</name>
+<description>Claro - 1900.06 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.4276,5.0519,95003
+-75.4276,5.1519,95003
+-75.3276,5.1519,95003
+-75.3276,5.0519,95003
+-75.4276,5.0519,95003
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Bolivar</name>
+<description>Claro - 2421.13 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.2461,10.0598,121056.5
+-75.2461,10.1598,121056.5
+-75.1461,10.1598,121056.5
+-75.1461,10.0598,121056.5
+-75.2461,10.0598,121056.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Huila</name>
+<description>TIGO - 2635.43 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.6442,2.576,131771.5
+-75.6442,2.676,131771.5
+-75.5442,2.676,131771.5
+-75.5442,2.576,131771.5
+-75.6442,2.576,131771.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Nari?o</name>
+<description>Claro - 2048.8 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-77.4365,1.1705,102440
+-77.4365,1.2705,102440
+-77.3365,1.2705,102440
+-77.3365,1.1705,102440
+-77.4365,1.1705,102440
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Cordoba</name>
+<description>Claro - 1438.94 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.7242,8.6231,71947
+-75.7242,8.7231,71947
+-75.6242,8.7231,71947
+-75.6242,8.6231,71947
+-75.7242,8.6231,71947
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Risaralda</name>
+<description>TIGO - 4737.68 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.8573,4.7784,236884
+-75.8573,4.8784,236884
+-75.7573,4.8784,236884
+-75.7573,4.7784,236884
+-75.8573,4.7784,236884
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Meta</name>
+<description>Movistar - 2004.79 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-73.4531,3.9933,100239.5
+-73.4531,4.0933,100239.5
+-73.3531,4.0933,100239.5
+-73.3531,3.9933,100239.5
+-73.4531,3.9933,100239.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>La Guajira</name>
+<description>Claro - 2459.48 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-72.7427,11.2387,122974
+-72.7427,11.3387,122974
+-72.6427,11.3387,122974
+-72.6427,11.2387,122974
+-72.7427,11.2387,122974
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>La Guajira</name>
+<description>Movistar - 1660.82 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-72.8427,11.2387,83041
+-72.8427,11.3387,83041
+-72.7427,11.3387,83041
+-72.7427,11.2387,83041
+-72.8427,11.2387,83041
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Casanare</name>
+<description>Movistar - 2661.71 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-72.507,5.1864,133085.5
+-72.507,5.2864,133085.5
+-72.407,5.2864,133085.5
+-72.407,5.1864,133085.5
+-72.507,5.1864,133085.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Putumayo</name>
+<description>Claro - 941.27 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-76.6125,0.8998,47063.5
+-76.6125,0.9998,47063.5
+-76.5125,0.9998,47063.5
+-76.5125,0.8998,47063.5
+-76.6125,0.8998,47063.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Tolima</name>
+<description>TIGO - 3220.27 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.2984,4.388,161013.5
+-75.2984,4.488,161013.5
+-75.1984,4.488,161013.5
+-75.1984,4.388,161013.5
+-75.2984,4.388,161013.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Antioquia</name>
+<description>Claro - 1970.3 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.5298,6.2158,98515
+-75.5298,6.3158,98515
+-75.4298,6.3158,98515
+-75.4298,6.2158,98515
+-75.5298,6.2158,98515
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Boyaca</name>
+<description>TIGO - 2833.37 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-73.4261,5.633,141668.5
+-73.4261,5.733,141668.5
+-73.3261,5.733,141668.5
+-73.3261,5.633,141668.5
+-73.4261,5.633,141668.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Nari?o</name>
+<description>TIGO - 3104.19 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-77.6365,1.1705,155209.5
+-77.6365,1.2705,155209.5
+-77.5365,1.2705,155209.5
+-77.5365,1.1705,155209.5
+-77.6365,1.1705,155209.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Cesar</name>
+<description>TIGO - 2098.89 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-73.5274,9.9154,104944.5
+-73.5274,10.0154,104944.5
+-73.4274,10.0154,104944.5
+-73.4274,9.9154,104944.5
+-73.5274,9.9154,104944.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Cordoba</name>
+<description>Movistar - 3359.85 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.8242,8.6231,167992.5
+-75.8242,8.7231,167992.5
+-75.7242,8.7231,167992.5
+-75.7242,8.6231,167992.5
+-75.8242,8.6231,167992.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Arauca</name>
+<description>Movistar - 500.29 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-71.1274,6.9083,25014.5
+-71.1274,7.0083,25014.5
+-71.0274,7.0083,25014.5
+-71.0274,6.9083,25014.5
+-71.1274,6.9083,25014.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Valle Del Cauca</name>
+<description>TIGO - 3913.48 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-76.6082,3.5144,195674
+-76.6082,3.6144,195674
+-76.5082,3.6144,195674
+-76.5082,3.5144,195674
+-76.6082,3.5144,195674
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Antioquia</name>
+<description>TIGO - 3980.14 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.7298,6.2158,199007
+-75.7298,6.3158,199007
+-75.6298,6.3158,199007
+-75.6298,6.2158,199007
+-75.7298,6.2158,199007
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Santander</name>
+<description>Movistar - 2253.51 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-73.2844,6.9599,112675.5
+-73.2844,7.0599,112675.5
+-73.1844,7.0599,112675.5
+-73.1844,6.9599,112675.5
+-73.2844,6.9599,112675.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Bolivar</name>
+<description>TIGO - 3251.6 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.4461,10.0598,162580
+-75.4461,10.1598,162580
+-75.3461,10.1598,162580
+-75.3461,10.0598,162580
+-75.4461,10.0598,162580
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Bolivar</name>
+<description>Movistar - 2337.69 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.3461,10.0598,116884.5
+-75.3461,10.1598,116884.5
+-75.2461,10.1598,116884.5
+-75.2461,10.0598,116884.5
+-75.3461,10.0598,116884.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Huila</name>
+<description>Movistar - 2924.36 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.5442,2.576,146218
+-75.5442,2.676,146218
+-75.4442,2.676,146218
+-75.4442,2.576,146218
+-75.5442,2.576,146218
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Sucre</name>
+<description>Claro - 1792.01 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.3075,9.2497,89600.5
+-75.3075,9.3497,89600.5
+-75.2075,9.3497,89600.5
+-75.2075,9.2497,89600.5
+-75.3075,9.2497,89600.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Casanare</name>
+<description>Claro - 1425.53 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-72.407,5.1864,71276.5
+-72.407,5.2864,71276.5
+-72.307,5.2864,71276.5
+-72.307,5.1864,71276.5
+-72.407,5.1864,71276.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Arauca</name>
+<description>TIGO - 1229.67 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-71.2274,6.9083,61483.5
+-71.2274,7.0083,61483.5
+-71.1274,7.0083,61483.5
+-71.1274,6.9083,61483.5
+-71.2274,6.9083,61483.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Vichada</name>
+<description>Claro - 2362 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-70.0778,4.6377,118100
+-70.0778,4.7377,118100
+-69.9778,4.7377,118100
+-69.9778,4.6377,118100
+-70.0778,4.6377,118100
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Santa Fe De Bogota,D.C.</name>
+<description>TIGO - 3632.8 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-74.2244,4.6072,181640
+-74.2244,4.7072,181640
+-74.1244,4.7072,181640
+-74.1244,4.6072,181640
+-74.2244,4.6072,181640
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Atlantico</name>
+<description>Movistar - 2451.34 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-74.8648,10.9175,122567
+-74.8648,11.0175,122567
+-74.7648,11.0175,122567
+-74.7648,10.9175,122567
+-74.8648,10.9175,122567
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Magdalena</name>
+<description>Movistar - 2252.97 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-74.2854,10.8938,112648.5
+-74.2854,10.9938,112648.5
+-74.1854,10.9938,112648.5
+-74.1854,10.8938,112648.5
+-74.2854,10.8938,112648.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+<Placemark>
+<name>Norte De Santander</name>
+<description>Movistar - 2908.56 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-72.6229,7.8322,145428
+-72.6229,7.9322,145428
+-72.5229,7.9322,145428
+-72.5229,7.8322,145428
+-72.6229,7.8322,145428
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>
+
+
+
+
+</Folder>
+
+
+
+<Folder>
+<name>4G</name>
+<visibility>0</visibility>
+
+"<Placemark>
+<name>Santa Fe De Bogota,D.C.</name>
+<description>Claro - 10739.33 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-74.0244,4.6072,536966.5
+-74.0244,4.7072,536966.5
+-73.9244,4.7072,536966.5
+-73.9244,4.6072,536966.5
+-74.0244,4.6072,536966.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Cundinamarca</name>
+<description>TIGO - 21135.1 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-74.3528,4.6842,1056755
+-74.3528,4.7842,1056755
+-74.2528,4.7842,1056755
+-74.2528,4.6842,1056755
+-74.3528,4.6842,1056755
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Atlantico</name>
+<description>Claro - 8289.33 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-74.7648,10.9175,414466.5
+-74.7648,11.0175,414466.5
+-74.6648,11.0175,414466.5
+-74.6648,10.9175,414466.5
+-74.7648,10.9175,414466.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Huila</name>
+<description>Claro - 12838.05 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.4442,2.576,641902.5
+-75.4442,2.676,641902.5
+-75.3442,2.676,641902.5
+-75.3442,2.576,641902.5
+-75.4442,2.576,641902.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Meta</name>
+<description>Claro - 15435.62 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-73.3531,3.9933,771781
+-73.3531,4.0933,771781
+-73.2531,4.0933,771781
+-73.2531,3.9933,771781
+-73.3531,3.9933,771781
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Sucre</name>
+<description>TIGO - 9691.24 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.5075,9.2497,484562
+-75.5075,9.3497,484562
+-75.4075,9.3497,484562
+-75.4075,9.2497,484562
+-75.5075,9.2497,484562
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Cauca</name>
+<description>Movistar - 37035.07 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-76.6711,2.505,1851753.5
+-76.6711,2.605,1851753.5
+-76.5711,2.605,1851753.5
+-76.5711,2.505,1851753.5
+-76.6711,2.505,1851753.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Casanare</name>
+<description>Movistar - 34585.33 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-72.507,5.1864,1729266.5
+-72.507,5.2864,1729266.5
+-72.407,5.2864,1729266.5
+-72.407,5.1864,1729266.5
+-72.507,5.1864,1729266.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Bolivar</name>
+<description>Movistar - 10285.86 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.3461,10.0598,514293
+-75.3461,10.1598,514293
+-75.2461,10.1598,514293
+-75.2461,10.0598,514293
+-75.3461,10.0598,514293
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Santander</name>
+<description>TIGO - 25823.57 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-73.3844,6.9599,1291178.5
+-73.3844,7.0599,1291178.5
+-73.2844,7.0599,1291178.5
+-73.2844,6.9599,1291178.5
+-73.3844,6.9599,1291178.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Magdalena</name>
+<description>TIGO - 13384.98 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-74.3854,10.8938,669249
+-74.3854,10.9938,669249
+-74.2854,10.9938,669249
+-74.2854,10.8938,669249
+-74.3854,10.8938,669249
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Tolima</name>
+<description>Movistar - 15758.15 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.1984,4.388,787907.5
+-75.1984,4.488,787907.5
+-75.0984,4.488,787907.5
+-75.0984,4.388,787907.5
+-75.1984,4.388,787907.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Guaviare</name>
+<description>Claro - 3196 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-72.59,2.5051,159800
+-72.59,2.6051,159800
+-72.49,2.6051,159800
+-72.49,2.5051,159800
+-72.59,2.5051,159800
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Putumayo</name>
+<description>Claro - 11538.33 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-76.6125,0.8998,576916.5
+-76.6125,0.9998,576916.5
+-76.5125,0.9998,576916.5
+-76.5125,0.8998,576916.5
+-76.6125,0.8998,576916.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Casanare</name>
+<description>Claro - 3522.25 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-72.407,5.1864,176112.5
+-72.407,5.2864,176112.5
+-72.307,5.2864,176112.5
+-72.307,5.1864,176112.5
+-72.407,5.1864,176112.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Meta</name>
+<description>TIGO - 23666 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-73.5531,3.9933,1183300
+-73.5531,4.0933,1183300
+-73.4531,4.0933,1183300
+-73.4531,3.9933,1183300
+-73.5531,3.9933,1183300
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Nari?o</name>
+<description>Movistar - 26181.89 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-77.5365,1.1705,1309094.5
+-77.5365,1.2705,1309094.5
+-77.4365,1.2705,1309094.5
+-77.4365,1.1705,1309094.5
+-77.5365,1.1705,1309094.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Cundinamarca</name>
+<description>Claro - 12036.73 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-74.1528,4.6842,601836.5
+-74.1528,4.7842,601836.5
+-74.0528,4.7842,601836.5
+-74.0528,4.6842,601836.5
+-74.1528,4.6842,601836.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Antioquia</name>
+<description>Claro - 8694.79 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.5298,6.2158,434739.5
+-75.5298,6.3158,434739.5
+-75.4298,6.3158,434739.5
+-75.4298,6.2158,434739.5
+-75.5298,6.2158,434739.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Antioquia</name>
+<description>TIGO - 25029.56 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.7298,6.2158,1251478
+-75.7298,6.3158,1251478
+-75.6298,6.3158,1251478
+-75.6298,6.2158,1251478
+-75.7298,6.2158,1251478
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Magdalena</name>
+<description>Claro - 7402.39 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-74.1854,10.8938,370119.5
+-74.1854,10.9938,370119.5
+-74.0854,10.9938,370119.5
+-74.0854,10.8938,370119.5
+-74.1854,10.8938,370119.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Norte De Santander</name>
+<description>TIGO - 27767.17 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-72.7229,7.8322,1388358.5
+-72.7229,7.9322,1388358.5
+-72.6229,7.9322,1388358.5
+-72.6229,7.8322,1388358.5
+-72.7229,7.8322,1388358.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Cesar</name>
+<description>TIGO - 14441 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-73.5274,9.9154,722050
+-73.5274,10.0154,722050
+-73.4274,10.0154,722050
+-73.4274,9.9154,722050
+-73.5274,9.9154,722050
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Cauca</name>
+<description>Claro - 11999.14 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-76.5711,2.505,599957
+-76.5711,2.605,599957
+-76.4711,2.605,599957
+-76.4711,2.505,599957
+-76.5711,2.505,599957
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Meta</name>
+<description>Movistar - 20777.26 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-73.4531,3.9933,1038863
+-73.4531,4.0933,1038863
+-73.3531,4.0933,1038863
+-73.3531,3.9933,1038863
+-73.4531,3.9933,1038863
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Huila</name>
+<description>Movistar - 28326.55 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.5442,2.576,1416327.5
+-75.5442,2.676,1416327.5
+-75.4442,2.676,1416327.5
+-75.4442,2.576,1416327.5
+-75.5442,2.576,1416327.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>La Guajira</name>
+<description>Claro - 16540.75 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-72.7427,11.2387,827037.5
+-72.7427,11.3387,827037.5
+-72.6427,11.3387,827037.5
+-72.6427,11.2387,827037.5
+-72.7427,11.2387,827037.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Arauca</name>
+<description>Claro - 5264.33 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-71.0274,6.9083,263216.5
+-71.0274,7.0083,263216.5
+-70.9274,7.0083,263216.5
+-70.9274,6.9083,263216.5
+-71.0274,6.9083,263216.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Atlantico</name>
+<description>Movistar - 12653.7 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-74.8648,10.9175,632685
+-74.8648,11.0175,632685
+-74.7648,11.0175,632685
+-74.7648,10.9175,632685
+-74.8648,10.9175,632685
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Antioquia</name>
+<description>Movistar - 19766.71 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.6298,6.2158,988335.5
+-75.6298,6.3158,988335.5
+-75.5298,6.3158,988335.5
+-75.5298,6.2158,988335.5
+-75.6298,6.2158,988335.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Nari?o</name>
+<description>Claro - 13533.22 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-77.4365,1.1705,676661
+-77.4365,1.2705,676661
+-77.3365,1.2705,676661
+-77.3365,1.1705,676661
+-77.4365,1.1705,676661
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Bolivar</name>
+<description>TIGO - 21771.64 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.4461,10.0598,1088582
+-75.4461,10.1598,1088582
+-75.3461,10.1598,1088582
+-75.3461,10.0598,1088582
+-75.4461,10.0598,1088582
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Caqueta</name>
+<description>Claro - 12231.5 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.4443,1.5442,611575
+-75.4443,1.6442,611575
+-75.3443,1.6442,611575
+-75.3443,1.5442,611575
+-75.4443,1.5442,611575
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Choco</name>
+<description>Movistar - 5833 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-76.6941,5.5731,291650
+-76.6941,5.6731,291650
+-76.5941,5.6731,291650
+-76.5941,5.5731,291650
+-76.6941,5.5731,291650
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Valle Del Cauca</name>
+<description>TIGO - 30926.57 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-76.6082,3.5144,1546328.5
+-76.6082,3.6144,1546328.5
+-76.5082,3.6144,1546328.5
+-76.5082,3.5144,1546328.5
+-76.6082,3.5144,1546328.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Valle Del Cauca</name>
+<description>Movistar - 28193.37 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-76.5082,3.5144,1409668.5
+-76.5082,3.6144,1409668.5
+-76.4082,3.6144,1409668.5
+-76.4082,3.5144,1409668.5
+-76.5082,3.5144,1409668.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Santander</name>
+<description>Claro - 16272.47 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-73.1844,6.9599,813623.5
+-73.1844,7.0599,813623.5
+-73.0844,7.0599,813623.5
+-73.0844,6.9599,813623.5
+-73.1844,6.9599,813623.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Norte De Santander</name>
+<description>Movistar - 12104.21 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-72.6229,7.8322,605210.5
+-72.6229,7.9322,605210.5
+-72.5229,7.9322,605210.5
+-72.5229,7.8322,605210.5
+-72.6229,7.8322,605210.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Boyaca</name>
+<description>Claro - 4981.08 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-73.2261,5.633,249054
+-73.2261,5.733,249054
+-73.1261,5.733,249054
+-73.1261,5.633,249054
+-73.2261,5.633,249054
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Tolima</name>
+<description>TIGO - 27127.73 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.2984,4.388,1356386.5
+-75.2984,4.488,1356386.5
+-75.1984,4.488,1356386.5
+-75.1984,4.388,1356386.5
+-75.2984,4.388,1356386.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Caldas</name>
+<description>Claro - 5796.35 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.4276,5.0519,289817.5
+-75.4276,5.1519,289817.5
+-75.3276,5.1519,289817.5
+-75.3276,5.0519,289817.5
+-75.4276,5.0519,289817.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Choco</name>
+<description>Claro - 1913.64 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-76.5941,5.5731,95682
+-76.5941,5.6731,95682
+-76.4941,5.6731,95682
+-76.4941,5.5731,95682
+-76.5941,5.5731,95682
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Cordoba</name>
+<description>Movistar - 9033.17 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.8242,8.6231,451658.5
+-75.8242,8.7231,451658.5
+-75.7242,8.7231,451658.5
+-75.7242,8.6231,451658.5
+-75.8242,8.6231,451658.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Risaralda</name>
+<description>Movistar - 29278.56 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.7573,4.7784,1463928
+-75.7573,4.8784,1463928
+-75.6573,4.8784,1463928
+-75.6573,4.7784,1463928
+-75.7573,4.7784,1463928
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Cordoba</name>
+<description>Claro - 13492.9 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.7242,8.6231,674645
+-75.7242,8.7231,674645
+-75.6242,8.7231,674645
+-75.6242,8.6231,674645
+-75.7242,8.6231,674645
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Valle Del Cauca</name>
+<description>Claro - 8078.7 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-76.4082,3.5144,403935
+-76.4082,3.6144,403935
+-76.3082,3.6144,403935
+-76.3082,3.5144,403935
+-76.4082,3.5144,403935
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Cundinamarca</name>
+<description>Movistar - 20914.47 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-74.2528,4.6842,1045723.5
+-74.2528,4.7842,1045723.5
+-74.1528,4.7842,1045723.5
+-74.1528,4.6842,1045723.5
+-74.2528,4.6842,1045723.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Boyaca</name>
+<description>Movistar - 25475.15 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-73.3261,5.633,1273757.5
+-73.3261,5.733,1273757.5
+-73.2261,5.733,1273757.5
+-73.2261,5.633,1273757.5
+-73.3261,5.633,1273757.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Caldas</name>
+<description>Movistar - 38990.35 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.5276,5.0519,1949517.5
+-75.5276,5.1519,1949517.5
+-75.4276,5.1519,1949517.5
+-75.4276,5.0519,1949517.5
+-75.5276,5.0519,1949517.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Magdalena</name>
+<description>Movistar - 10220.56 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-74.2854,10.8938,511028
+-74.2854,10.9938,511028
+-74.1854,10.9938,511028
+-74.1854,10.8938,511028
+-74.2854,10.8938,511028
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Cesar</name>
+<description>Movistar - 12271.22 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-73.4274,9.9154,613561
+-73.4274,10.0154,613561
+-73.3274,10.0154,613561
+-73.3274,9.9154,613561
+-73.4274,9.9154,613561
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Cesar</name>
+<description>Claro - 14604.69 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-73.3274,9.9154,730234.5
+-73.3274,10.0154,730234.5
+-73.2274,10.0154,730234.5
+-73.2274,9.9154,730234.5
+-73.3274,9.9154,730234.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Risaralda</name>
+<description>Claro - 8693.19 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.6573,4.7784,434659.5
+-75.6573,4.8784,434659.5
+-75.5573,4.8784,434659.5
+-75.5573,4.7784,434659.5
+-75.6573,4.7784,434659.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Bolivar</name>
+<description>Claro - 33657.98 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.2461,10.0598,1682899
+-75.2461,10.1598,1682899
+-75.1461,10.1598,1682899
+-75.1461,10.0598,1682899
+-75.2461,10.0598,1682899
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Quindio</name>
+<description>Movistar - 15310.86 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.7399,4.491,765543
+-75.7399,4.591,765543
+-75.6399,4.591,765543
+-75.6399,4.491,765543
+-75.7399,4.491,765543
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Cordoba</name>
+<description>TIGO - 7336.94 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.9242,8.6231,366847
+-75.9242,8.7231,366847
+-75.8242,8.7231,366847
+-75.8242,8.6231,366847
+-75.9242,8.6231,366847
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>La Guajira</name>
+<description>Movistar - 5246.1 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-72.8427,11.2387,262305
+-72.8427,11.3387,262305
+-72.7427,11.3387,262305
+-72.7427,11.2387,262305
+-72.8427,11.2387,262305
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Huila</name>
+<description>TIGO - 15599.86 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.6442,2.576,779993
+-75.6442,2.676,779993
+-75.5442,2.676,779993
+-75.5442,2.576,779993
+-75.6442,2.576,779993
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Santa Fe De Bogota,D.C.</name>
+<description>TIGO - 20915.48 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-74.2244,4.6072,1045774
+-74.2244,4.7072,1045774
+-74.1244,4.7072,1045774
+-74.1244,4.6072,1045774
+-74.2244,4.6072,1045774
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Santa Fe De Bogota,D.C.</name>
+<description>Movistar - 22961.66 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-74.1244,4.6072,1148083
+-74.1244,4.7072,1148083
+-74.0244,4.7072,1148083
+-74.0244,4.6072,1148083
+-74.1244,4.6072,1148083
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Atlantico</name>
+<description>TIGO - 22078.66 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-74.9648,10.9175,1103933
+-74.9648,11.0175,1103933
+-74.8648,11.0175,1103933
+-74.8648,10.9175,1103933
+-74.9648,10.9175,1103933
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Santander</name>
+<description>Movistar - 13092.04 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-73.2844,6.9599,654602
+-73.2844,7.0599,654602
+-73.1844,7.0599,654602
+-73.1844,6.9599,654602
+-73.2844,6.9599,654602
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Tolima</name>
+<description>Claro - 12361.27 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.0984,4.388,618063.5
+-75.0984,4.488,618063.5
+-74.9984,4.488,618063.5
+-74.9984,4.388,618063.5
+-75.0984,4.388,618063.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Norte De Santander</name>
+<description>Claro - 5104.67 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-72.5229,7.8322,255233.5
+-72.5229,7.9322,255233.5
+-72.4229,7.9322,255233.5
+-72.4229,7.8322,255233.5
+-72.5229,7.8322,255233.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Quindio</name>
+<description>Claro - 5869.13 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.6399,4.491,293456.5
+-75.6399,4.591,293456.5
+-75.5399,4.591,293456.5
+-75.5399,4.491,293456.5
+-75.6399,4.491,293456.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Sucre</name>
+<description>Claro - 11692.78 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Claro</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.3075,9.2497,584639
+-75.3075,9.3497,584639
+-75.2075,9.3497,584639
+-75.2075,9.2497,584639
+-75.3075,9.2497,584639
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>La Guajira</name>
+<description>TIGO - 8845.79 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-72.9427,11.2387,442289.5
+-72.9427,11.3387,442289.5
+-72.8427,11.3387,442289.5
+-72.8427,11.2387,442289.5
+-72.9427,11.2387,442289.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Arauca</name>
+<description>Movistar - 6440.5 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-71.1274,6.9083,322025
+-71.1274,7.0083,322025
+-71.0274,7.0083,322025
+-71.0274,6.9083,322025
+-71.1274,6.9083,322025
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Sucre</name>
+<description>Movistar - 3953.67 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#Movistar</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.4075,9.2497,197683.5
+-75.4075,9.3497,197683.5
+-75.3075,9.3497,197683.5
+-75.3075,9.2497,197683.5
+-75.4075,9.2497,197683.5
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Caldas</name>
+<description>TIGO - 13059 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.6276,5.0519,652950
+-75.6276,5.1519,652950
+-75.5276,5.1519,652950
+-75.5276,5.0519,652950
+-75.6276,5.0519,652950
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+"<Placemark>
+<name>Caldas</name>
+<description>TIGO - 13059 Kbps</description>
+  <visibility>1</visibility>
+ <styleUrl>#TIGO</styleUrl>
+ <Polygon>
+ <extrude>1</extrude>
+ <altitudeMode>relativeToGround</altitudeMode>
+ <outerBoundaryIs>
+ <LinearRing>
+ <coordinates>
+-75.6276,5.0519,652950
+-75.6276,5.1519,652950
+-75.5276,5.1519,652950
+-75.5276,5.0519,652950
+-75.6276,5.0519,652950
+ </coordinates>
+ </LinearRing>
+ </outerBoundaryIs>
+ </Polygon>
+ </Placemark>"
+
+
+
+</Folder>
+ 
+ 
+ 
+ </Document>
+ </kml> 
